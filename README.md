@@ -84,12 +84,6 @@ python trained.py
 
 ---
 
-## 📸 Demo
-
-🚧 *Add screenshots or GIF here to showcase your app*
-
----
-
 ## 📌 Future Improvements
 
 * 🔢 Multi-class image classification
